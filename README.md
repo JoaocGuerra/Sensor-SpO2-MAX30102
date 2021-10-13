@@ -14,11 +14,11 @@ Fazer uso do sensor SpO2-MAX30102 para medir o batimento cardíaco e o nível de
 As Dimensões da case da pulseira:
 Comprimento: 7.5 cm\
 Altura: 1.5 cm\
-Largura: 3.8 cm\
+Largura: 3.8 cm
 
 Dimensões dos braços da pulseira:
 Comprimento: 18.0 cm\
-Largura: 2.3 cm\
+Largura: 2.3 cm
 
 Link para vídeos da entrega parcial:\
 Vídeo no Fusion: https://drive.google.com/file/d/1T5mHVWk34nRYTMkD_aoFN_-S5dbFVQ9f/view?usp=sharing \
