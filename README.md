@@ -20,6 +20,6 @@ Dimensões dos braços da pulseira:
 Comprimento: 18.0 cm\
 Largura: 2.3 cm\
 
-Link para vídeos da entrega parcial:
+Link para vídeos da entrega parcial:\
 Vídeo no Fusion: https://drive.google.com/file/d/1T5mHVWk34nRYTMkD_aoFN_-S5dbFVQ9f/view?usp=sharing \
 Vídeo no PrusaSlicer: https://drive.google.com/file/d/1SkHnBMplbUZp8OetU9DAU1jy5QvF_HWb/view?usp=sharing 
