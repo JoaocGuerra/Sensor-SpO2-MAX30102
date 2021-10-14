@@ -17,7 +17,7 @@ Altura: 1.0 cm\
 Largura: 3.9 cm
 
 **Sobre a pulseira:**
-Deverar se produzida tenco como exemplo a pulseira da Miband. Onde as dimensões são:\
+Deverar se produzida tendo como exemplo a pulseira da Miband com um detalhe que seria os braços da pulseria no comprimento da pulseira e não na largura. Onde as dimensões são:\
 Comprimento: 7.7 cm\
 Altura: 1.2 cm\
 Largura: 4.1 cm\
